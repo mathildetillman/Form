@@ -1,0 +1,26 @@
+/* ==========================================================================
+   Style: Her kan du gjøre som du vil;
+   ========================================================================== */
+.header {
+  text-align: center;
+}
+
+section {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.background {
+  background-color: whitesmoke;
+}
+
+.form{
+  width: 600px;
+  margin:20px;
+  padding:30px;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.input-field {
+  margin-bottom: 20px;
+}
